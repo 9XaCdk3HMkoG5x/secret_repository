@@ -1,18 +1,14 @@
 '''
     Title: Military Rocket Control Source Code
     Author: SmithJ_Dev
-    Date: 09/01/2022
-    Code version: 1.2
-    If there is a problem, please contact https://twitter.com/p5jr5mXfzvPsNR
-'''
-'''
-Procedure of the program
 
-    Install pybluez using the command:
-        pip install pybluez
+    Procedure of the program
 
-    Start the program using the command:
-        python -i rocket_port3.py
+        Install pybluez using the command:
+            pip install pybluez
+
+        Start the program using the command:
+            python -i rocket_port3.py
 '''
 
 from bluetooth import *
