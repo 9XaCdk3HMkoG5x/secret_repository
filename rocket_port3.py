@@ -3,7 +3,7 @@
     Author: SmithJ_Dev
     Date: 09/01/2022
     Code version: 1.2
-    If there is a problem, please contact XXXXXXXXXXXXXXXXXXXXXXXXXXX
+    If there is a problem, please contact https://twitter.com/p5jr5mXfzvPsNR
 '''
 '''
 Procedure of the program
